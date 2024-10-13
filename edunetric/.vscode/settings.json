@@ -1,0 +1,8 @@
+{
+    // index.css에서 @tailwind를 인식될 수 있도록.
+    //CSS, SCSS, LESS 파일에 대해 기본적인 문법 검사를 비활성화하여 
+    //Tailwind의 @tailwind 지시어를 사용할 때 발생하는 경고를 없애줍니다.
+"css.validate": false,
+"scss.validate": false,
+"less.validate": false
+}
